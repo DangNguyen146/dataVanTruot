@@ -1,0 +1,10 @@
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\bin\Debug\AddDataBase.exe.config
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\bin\Debug\AddDataBase.exe
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\bin\Debug\AddDataBase.pdb
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\obj\Debug\AddDataBase.csprojAssemblyReference.cache
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\obj\Debug\AddDataBase.Form1.resources
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\obj\Debug\AddDataBase.Properties.Resources.resources
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\obj\Debug\AddDataBase.csproj.GenerateResource.cache
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\obj\Debug\AddDataBase.csproj.CoreCompileInputs.cache
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\obj\Debug\AddDataBase.exe
+F:\LamThem\QuocBao\Database\AddDataBase\AddDataBase\obj\Debug\AddDataBase.pdb
